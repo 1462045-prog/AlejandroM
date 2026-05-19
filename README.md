@@ -59,16 +59,6 @@ Me gustaría especializarme en desarrollo backend y en la creación de aplicacio
 
 ---
 
-Contacto
- Email: alejandro.daw@example.com
- GitHub: github.com/alejandroM
-Murcia, España
-Actualmente aprendiendo
-Java avanzado
-JavaScript
-Desarrollo backend
-Git y control de versiones
-Bases de datos relacionales
 
 
 ## 💻 Ejemplo de código
@@ -85,3 +75,18 @@ public class HolaMundo {
         System.out.println("Hola, GitHub!");
     }
 }
+
+### Datos personales y Contacto
+📫 Contacto
+✉️ Email: alejandro.daw@example.com
+💼 GitHub: github.com/alejandroM
+🌍 Murcia, España
+
+
+🚀 Actualmente aprendiendo
+Java avanzado
+JavaScript
+Desarrollo backend
+Git y control de versiones
+Bases de datos relacionales
+
