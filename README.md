@@ -58,6 +58,7 @@ Mi objetivo es trabajar como **desarrollador web**, participando en proyectos do
 Me gustaría especializarme en desarrollo backend y en la creación de aplicaciones web modernas y eficientes.
 
 ---
+
 Contacto
  Email: alejandro.daw@example.com
  GitHub: github.com/alejandroM
